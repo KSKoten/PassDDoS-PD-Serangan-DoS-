@@ -1,4 +1,4 @@
-git clone https://github.com/PassDDoS/PD.git
+git clone https://github.com/KSKoten/PassDDoS-PD-Serangan-DoS-.git
 
 wget http://multiproxy.org/txt_all/proxy.txt
 
