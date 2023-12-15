@@ -2,7 +2,7 @@ git clone https://github.com/KSKoten/PassDDoS-PD-Serangan-DoS-.git
 
 wget http://multiproxy.org/txt_all/proxy.txt
 
-cd PD
+cd PassDDoS-PD-Serangan-DoS-
 
 python3 pdv1.py
 
